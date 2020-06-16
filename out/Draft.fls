@@ -1,0 +1,57 @@
+PWD c:/Users/mahum/Documents/Draft
+INPUT c:/texlive/2020/texmf.cnf
+INPUT c:/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2020/texmf-var/web2c/eptex/platex.fmt
+INPUT c:/Users/mahum/Documents/Draft/Draft.tex
+OUTPUT out/Draft.log
+INPUT c:/texlive/2020/texmf-dist/tex/platex/base/jarticle.cls
+INPUT c:/texlive/2020/texmf-dist/tex/platex/base/jarticle.cls
+INPUT c:/texlive/2020/texmf-dist/tex/platex/base/jsize10.clo
+INPUT c:/texlive/2020/texmf-dist/tex/platex/base/jsize10.clo
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/here/here.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/here/here.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/float/float.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/float/float.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+INPUT out/Draft.aux
+INPUT out/Draft.aux
+OUTPUT out/Draft.aux
+INPUT c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT GenereteBuilding.png
+INPUT extractbb -B cropbox -O GenereteBuilding.png
+INPUT DeleteBuilding.png
+INPUT extractbb -B cropbox -O DeleteBuilding.png
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
+OUTPUT out/Draft.dvi
+INPUT VirtualCity.png
+INPUT extractbb -B cropbox -O VirtualCity.png
+INPUT CrossArea.png
+INPUT extractbb -B cropbox -O CrossArea.png
+INPUT out/Draft.aux
